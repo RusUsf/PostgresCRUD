@@ -1,0 +1,11 @@
+C:\Users\rus_d\OneDrive\DesktopBackup\Learn to Code_1\GitHub\RusUsf\PostgresCRUD\bin\Debug\net6.0\publish\PostgresCRUD.exe
+C:\Users\rus_d\OneDrive\DesktopBackup\Learn to Code_1\GitHub\RusUsf\PostgresCRUD\bin\Debug\net6.0\publish\appsettings.Development.json
+C:\Users\rus_d\OneDrive\DesktopBackup\Learn to Code_1\GitHub\RusUsf\PostgresCRUD\bin\Debug\net6.0\publish\appsettings.json
+C:\Users\rus_d\OneDrive\DesktopBackup\Learn to Code_1\GitHub\RusUsf\PostgresCRUD\bin\Debug\net6.0\publish\PostgresCRUD.dll
+C:\Users\rus_d\OneDrive\DesktopBackup\Learn to Code_1\GitHub\RusUsf\PostgresCRUD\bin\Debug\net6.0\publish\PostgresCRUD.deps.json
+C:\Users\rus_d\OneDrive\DesktopBackup\Learn to Code_1\GitHub\RusUsf\PostgresCRUD\bin\Debug\net6.0\publish\PostgresCRUD.runtimeconfig.json
+C:\Users\rus_d\OneDrive\DesktopBackup\Learn to Code_1\GitHub\RusUsf\PostgresCRUD\bin\Debug\net6.0\publish\PostgresCRUD.pdb
+C:\Users\rus_d\OneDrive\DesktopBackup\Learn to Code_1\GitHub\RusUsf\PostgresCRUD\bin\Debug\net6.0\publish\Microsoft.OpenApi.dll
+C:\Users\rus_d\OneDrive\DesktopBackup\Learn to Code_1\GitHub\RusUsf\PostgresCRUD\bin\Debug\net6.0\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\rus_d\OneDrive\DesktopBackup\Learn to Code_1\GitHub\RusUsf\PostgresCRUD\bin\Debug\net6.0\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\rus_d\OneDrive\DesktopBackup\Learn to Code_1\GitHub\RusUsf\PostgresCRUD\bin\Debug\net6.0\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
